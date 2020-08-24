@@ -1,0 +1,13 @@
+{
+    "name": "clown2-framework",
+    "version": "0.0.1",
+    "author": {
+        "name": "leef.wei",
+        "email": "weilingfeiwlf@163.com"
+    },
+    "license": "MIT",
+    "dependencies": {
+        "lodash": "4.17.20",
+        "clown2": "git+ssh://git@github.com:wolif/clown2-framework.js.git"
+    }
+}
